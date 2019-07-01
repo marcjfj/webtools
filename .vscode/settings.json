@@ -1,0 +1,21 @@
+{
+    "cSpell.ignoreWords": [
+        "add",
+        "const",
+        "empty",
+        "export",
+        "getters",
+        "list",
+        "mutations",
+        "push",
+        "restaurant",
+        "return",
+        "state"
+    ],
+    "cSpell.words": [
+        "cookieparser",
+        "init",
+        "nuxt",
+        "server"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "webtools",
+  "version": "1.0.0",
+  "description": "Free online web developer tools",
+  "author": "Marc",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "test": "jest",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cookieparser": "^0.1.0",
+    "js-cookie": "^2.2.0",
+    "nuxt": "^2.0.0",
+    "strapi-sdk-javascript": "^0.3.1",
+    "vue-clickaway": "^2.2.2"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.0.2",
+    "babel-jest": "^24.1.0",
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.4.1",
+    "jest": "^24.1.0",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^7.1.0",
+    "vue-jest": "^3.0.3"
+  }
+}
