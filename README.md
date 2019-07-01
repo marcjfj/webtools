@@ -2,6 +2,11 @@
 
 > Free online web developer tools
 
+![gif in action](https://media.giphy.com/media/VbcNNlZ8TDSV5QFscR/giphy.gif)
+
+![screenshot](https://i.imgur.com/kVOxIBJ.png)
+
+
 ## Build Setup
 
 ``` bash
